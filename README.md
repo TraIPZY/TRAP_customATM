@@ -22,7 +22,7 @@ A **lightweight and flexible script to spawn ATMs at specific locations** on you
 
 The script currently supports the following ATM models:  
 
-| Prop | Description |
+| Prop |
 |------|-------------|
 | `prop_atm_01`      |
 | `prop_atm_02`      |
