@@ -23,11 +23,11 @@ A **lightweight and flexible script to spawn ATMs at specific locations** on you
 The script currently supports the following ATM models:  
 
 | Prop |
-|------|-------------|
-| `prop_atm_01`      |
-| `prop_atm_02`      |
-| `prop_atm_03`      |
-| `prop_fleeca_atm`  | 
+|------|
+| `prop_atm_01` |
+| `prop_atm_02` |
+| `prop_atm_03` |
+| `prop_fleeca_atm` |
 
 > Additional props can be added following the same format in `config.lua`.
 
