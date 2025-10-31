@@ -39,5 +39,12 @@ The script currently supports the following ATM models:
 2. Place the folder in your `resources` directory  
 3. Add the resource to your `server.cfg`:
 
+
 ```cfg
 ensure TRAP_customATM
+
+
+#SUPPORT/HELP
+Support or creation HERE:
+https://discord.gg/rjjU2y93X7
+
