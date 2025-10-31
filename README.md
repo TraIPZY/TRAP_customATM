@@ -1,4 +1,9 @@
-# FiveM ATM Script
+# TRAP_customATM 🚀
+
+Support or creation HERE:
+https://discord.gg/rjjU2y93X7
+
+-----------------------------
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Lua](https://img.shields.io/badge/Lua-5.4-blue)
